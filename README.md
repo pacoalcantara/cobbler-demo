@@ -1,0 +1,2 @@
+# cobbler-demo
+Demo recipe
